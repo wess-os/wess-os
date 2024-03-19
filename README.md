@@ -1,8 +1,7 @@
-# 💫 Sobre mim:
 ✍️ analysis and systems development
 
 
-## 🌐 Sociais:
+## 🌐:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wesley-silva-9ab3a226a/)
 
 # 💻 Habilidades:
