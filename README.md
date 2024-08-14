@@ -1,4 +1,4 @@
-✍️ analysis and systems development
+🔸 Hello! My name is Wesley, I am a Full Stack Developer with experience in developing web applications. Expertise in front-end and back-end technologies, including Node.js, Nest.js, React.js, Vue.js, MySQL and PostgreSQL. Containerization skills with Docker and API implementation RESTful. Focused on solving complex problems and optimize user experience through efficient and scalable solutions.
 
 ## 🌐 Linkedin:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wess-os/)
