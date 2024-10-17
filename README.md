@@ -8,7 +8,3 @@
 
 ## 📄 Portfolio
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-five-indol-22.vercel.app/)
-
----
-
-![](https://komarev.com/ghpvc/?username=wess-os)
