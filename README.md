@@ -1,10 +1,30 @@
-🔸 Hello! My name is Wesley, I am a Full Stack Developer with experience in developing web applications. Expertise in front-end and back-end technologies, including Node.js, Nest.js, React.js, Vue.js, MySQL and PostgreSQL. Containerization skills with Docker and API implementation RESTful. Focused on solving complex problems and optimize user experience through efficient and scalable solutions.
+# 👋 Hello, I'm Wesley Mikael
 
-## 🌐 Linkedin:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wess-os/)
+I'm a **Full Stack Developer** passionate about creating scalable and high-performance web applications.  
+I have hands-on experience in both **frontend and backend**, with a strong focus on clean architecture, performance, and user experience.
 
-## 💻 Habilidades:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+💡 I love transforming complex problems into efficient, well-structured, and maintainable solutions.
 
-## 📄 Portfolio
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-five-indol-22.vercel.app/)
+---
+
+### 🧰 Tech Stack
+**Languages:** JavaScript, PHP, Python, Golang  
+**Frontend:** React.js, Vue.js, Next.js, React Native, jQuery  
+**Backend:** Node.js, Express, Nest.js, Laravel, Flask  
+**Databases:** MySQL, PostgreSQL, MongoDB, Redis  
+**DevOps & Cloud:** Docker, GitHub Actions, AWS, Linux, CI/CD  
+**Other:** RESTful APIs, Clean Code, Agile (Scrum), Automated Testing
+
+---
+
+### 💼 Professional Experience
+
+**🚀 TaxUpdate** – *Full Stack Developer (Remote, Jan 2025 – Present)*  
+- Maintain and implement new features in web systems using **React**, **PHP**, and **Laravel**.  
+- Automated CI/CD pipelines with **GitHub Actions**, reducing deployment time and errors.  
+- Optimized **MySQL** queries and refactored legacy code, improving performance by **40%**.
+
+**🌐 Micron Internet** – *Full Stack Developer (Nov 2023 – Jan 2025)*  
+- Developed an **Electronic Invoice System (NFCom)** using **Node.js**, **React.js**, and **MySQL**.  
+- Improved system performance by **45%** and reduced internal page load time by **60%**.  
+- Maintained and refactored legacy **PHP** and **jQuery** systems to ensure stability
