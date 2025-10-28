@@ -27,4 +27,42 @@ I have hands-on experience in both **frontend and backend**, with a strong focus
 **🌐 Micron Internet** – *Full Stack Developer (Nov 2023 – Jan 2025)*  
 - Developed an **Electronic Invoice System (NFCom)** using **Node.js**, **React.js**, and **MySQL**.  
 - Improved system performance by **45%** and reduced internal page load time by **60%**.  
-- Maintained and refactored legacy **PHP** and **jQuery** systems to ensure stability
+- Maintained and refactored legacy **PHP** and **jQuery** systems to ensure stability and scalability.  
+- Collaborated in **agile sprints**, focusing on quality and continuous delivery.
+
+**💻 Freelancer** – *Full Stack Developer (Remote, Jan 2025 – Present)*  
+- Improved usability and performance on a legacy PHP platform.  
+- Worked collaboratively with a remote team to enhance existing codebases.  
+- Implemented front-end improvements using **JavaScript**, **HTML**, and **CSS**.
+
+---
+
+### 🎓 Education
+**Bachelor’s in Systems Analysis and Development**  
+UNOPAR – Ibatiba/ES, Brazil  
+*Expected Graduation: 2025*
+
+---
+
+### 📜 Certifications
+- Programming Logic – *Udemy (2021)*  
+- JavaScript & Node.js – *B7Web (2021)*  
+- Docker & Containers – *Udemy (2024)*
+
+---
+
+### 🌎 About Me
+I'm from **Brazil 🇧🇷**, currently improving my English and aiming to continue my tech career in **Europe**, especially in **Ireland 🇮🇪**.  
+I'm driven, committed, and always focused on growth — both personal and professional.
+
+---
+
+### 🔗 Connect with me
+- 💼 [LinkedIn](https://www.linkedin.com/in/wess-os)  
+- 🧑‍💻 [Portfolio](#) *(coming soon)*  
+- 📂 [GitHub](https://github.com/wess-os)
+
+---
+
+### ⚡ Fun Fact
+When I'm not coding, I'm probably exploring new technologies, creating automation tools, or learning something completely new.
