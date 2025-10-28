@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Wesley Mikael
+# 👋 Hello, I'm Wesley
 
 I'm a **Full Stack Developer** passionate about creating scalable and high-performance web applications.  
 I have hands-on experience in both **frontend and backend**, with a strong focus on clean architecture, performance, and user experience.
