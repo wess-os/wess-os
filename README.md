@@ -17,30 +17,10 @@ I have hands-on experience in both **frontend and backend**, with a strong focus
 
 ---
 
-### 💼 Professional Experience
-
-**🚀 TaxUpdate** – *Full Stack Developer (Remote, Jan 2025 – Present)*  
-- Maintain and implement new features in web systems using **React**, **PHP**, and **Laravel**.  
-- Automated CI/CD pipelines with **GitHub Actions**, reducing deployment time and errors.  
-- Optimized **MySQL** queries and refactored legacy code, improving performance by **40%**.
-
-**🌐 Micron Internet** – *Full Stack Developer (Nov 2023 – Jan 2025)*  
-- Developed an **Electronic Invoice System (NFCom)** using **Node.js**, **React.js**, and **MySQL**.  
-- Improved system performance by **45%** and reduced internal page load time by **60%**.  
-- Maintained and refactored legacy **PHP** and **jQuery** systems to ensure stability and scalability.  
-- Collaborated in **agile sprints**, focusing on quality and continuous delivery.
-
-**💻 Freelancer** – *Full Stack Developer (Remote, Jan 2025 – Present)*  
-- Improved usability and performance on a legacy PHP platform.  
-- Worked collaboratively with a remote team to enhance existing codebases.  
-- Implemented front-end improvements using **JavaScript**, **HTML**, and **CSS**.
-
----
-
 ### 🎓 Education
 **Bachelor’s in Systems Analysis and Development**  
 UNOPAR – Ibatiba/ES, Brazil  
-*Expected Graduation: 2025*
+*Graduation: 2025*
 
 ---
 
